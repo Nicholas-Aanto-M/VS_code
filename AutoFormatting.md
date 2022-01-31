@@ -3,6 +3,7 @@
 
 Ctrl + Shift + V > Settings JSON(Preference Open Workspace setting(json))
 
+```
 {
     "workbench.colorTheme": "Default Dark+",
     "editor.formatOnSave": true,
@@ -13,3 +14,4 @@ Ctrl + Shift + V > Settings JSON(Preference Open Workspace setting(json))
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
+```
